@@ -16,7 +16,7 @@
 </head>
 <body>
 <div class = "container">
-	<h3>기능 개발 - join</h3>
+	<h3>로그인</h3>
 </div>
 </body>
 </html>
