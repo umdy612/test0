@@ -16,7 +16,7 @@
 </head>
 <body>
 	<div class = "container">
-		<h3>TEST002</h3>
+		<h3>MAIN</h3>
 	</div>
 </body>
 </html>
